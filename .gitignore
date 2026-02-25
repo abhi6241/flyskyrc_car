@@ -1,0 +1,11 @@
+# Ignore common Arduino/IDE build artifacts and editor configs
+*.o
+*.elf
+*.hex
+*.bin
+build/
+.vs/
+.vscode/
+.idea/
+*.log
+/.pio
